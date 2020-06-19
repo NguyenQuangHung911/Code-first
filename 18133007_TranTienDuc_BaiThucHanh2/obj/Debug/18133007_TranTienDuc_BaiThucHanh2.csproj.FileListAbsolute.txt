@@ -1,0 +1,40 @@
+D:\Đại học SPKT\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.exe.config
+D:\Đại học SPKT\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.exe
+D:\Đại học SPKT\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.pdb
+D:\Đại học SPKT\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.frmTaskManager.resources
+D:\Đại học SPKT\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.Properties.Resources.resources
+D:\Đại học SPKT\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.csproj.GenerateResource.cache
+D:\Đại học SPKT\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.exe
+D:\Đại học SPKT\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.pdb
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.exe.config
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.exe
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.pdb
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.frmTaskManager.resources
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.frmUser.resources
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.Properties.Resources.resources
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.csproj.GenerateResource.cache
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.csproj.CoreCompileInputs.cache
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.exe
+D:\University\HCMUTE\Năm 2 học kỳ 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.pdb
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.exe.config
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.exe
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.pdb
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.frmTaskManager.resources
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.frmUser.resources
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.Properties.Resources.resources
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.csproj.GenerateResource.cache
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.csproj.CoreCompileInputs.cache
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.exe
+D:\University\HCMUTE\2nd semester 2\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.pdb
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.exe.config
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.exe
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\bin\Debug\18133007_TranTienDuc_BaiThucHanh2.pdb
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.frmTaskManager.resources
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.frmUser.resources
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.Properties.Resources.resources
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.csproj.GenerateResource.cache
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.csproj.CoreCompileInputs.cache
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.exe
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.pdb
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\_18133007_TranTienDuc_BaiThucHanh2.frmMainGUI.resources
+D:\University\HCMUTE\Semesters\second semester 2\courses\Programming on Windows\excercises\18133007_TranTienDuc_BaiThucHanh2\obj\Debug\18133007_TranTienDuc_BaiThucHanh2.csprojAssemblyReference.cache
